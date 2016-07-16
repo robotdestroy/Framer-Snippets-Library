@@ -2,6 +2,8 @@
 
 *I built this library to compliment the included snippets library in Framer. These snippets focus on repeated actions and include as little code as possible. It should be quite helpful to beginners who are learning the basic behaviors of Framer, but it should be also be helpful to more experienced users when used as shortcuts.*
 
+![alt tag](http://whyamicrazytoday.com//home/robotdestroy/whyamicrazytoday.com/github/snippets.png)
+
 ## Animate
 
 A variety of common animation starters. Including scale, opacity, and position. Customize to your needs.
