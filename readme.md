@@ -61,3 +61,7 @@ Some starter springs. The variable setup allows you to create reusable springs. 
 ## Sub Layer
 
 A quick way to add a layer to a parent layer.
+
+## Video Layer
+
+A quick way to add a video layer to your prototype.
