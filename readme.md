@@ -1,20 +1,21 @@
 # Framer Snippets
 
-*I built this library to compliment the included snippets library in Framer. These snippets focus on repeated actions and includes as little code as possible. It could be quite helpful to beginners who are learning the basic behaviors of Framer, but it should be also be helpful to those more experienced when used as shortcuts.*
+*I built this library to compliment the included snippets library in Framer. These snippets focus on repeated actions and include as little code as possible. It should be quite helpful to beginners who are learning the basic behaviors of Framer, but it should be also be helpful to more experienced users when used as shortcuts.*
 
 ## Animate
 
 A variety of common animation starters. Including scale, opacity, and position. Customize to your needs.
+
 - Opacity
 - Position
 - Scale
-- Scale Opacity
-- Scale Delay
-- Scale Opacity Delay
+- Scale & Opacity
+- Scale & Delay
+- Scale, Opacity & Delay
 
-### Trigger  On End
+### Trigger On End
 
-There are two versions to trigger and animation on the end of another animation. The formal one should be used when you intend on reusing the animations, the casual one can be used for one off triggering.
+Included are two ways to trigger an animation on the end of another animation. The formal one should be used when you intend on reusing the animations, the casual one can be used for one off triggering.
 
 ### Repeating
 
