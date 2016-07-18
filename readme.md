@@ -75,5 +75,5 @@ A quick way to add a layer to a parent layer.
 A quick way to add a video layer to your prototype.
 
 # Follow Me
-Twitter: [charliedeets](https://twitter.com/charliedeets)
-Facebook: [robotsecret](https://facebook.com/robotsecret)
+- Twitter: [charliedeets](https://twitter.com/charliedeets)
+- Facebook: [robotsecret](https://facebook.com/robotsecret)
