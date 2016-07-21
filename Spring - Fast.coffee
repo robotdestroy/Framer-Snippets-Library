@@ -1,5 +1,5 @@
 plugin.run = (contents, options) ->
 	"""
 #{contents}
-"spring(400,23,6)"
+curve: "spring(400,23,6)"
 	"""

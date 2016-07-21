@@ -1,5 +1,5 @@
 plugin.run = (contents, options) ->
 	"""
 #{contents}
-parent: layerA
+layerA.name = "Layer Name"
 	"""
