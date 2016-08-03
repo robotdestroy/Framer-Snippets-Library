@@ -52,7 +52,7 @@ Use these to trigger events from drag actions. Position reports back the current
 - Video Layer
 - Destroy Layer
 
-## Layer Properities
+## Layer Properties
 
 Use these to effect your layers.
 
