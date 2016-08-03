@@ -4,6 +4,16 @@
 
 ![alt tag](http://whyamicrazytoday.com/github/snippets.png)
 
+## Actions
+
+A variety of common actions.
+
+- Click
+- Keydown
+- Touch Start
+- Touch Move
+- Touch End
+
 ## Animate
 
 A variety of common animation starters. Including scale, opacity, and position. Customize to your needs.
@@ -11,9 +21,9 @@ A variety of common animation starters. Including scale, opacity, and position. 
 - Opacity
 - Position
 - Scale
-- Scale & Opacity
-- Scale & Delay
-- Scale, Opacity & Delay
+- Dimensions
+- Rotation
+- With Delay
 
 ### Trigger On End
 
@@ -22,6 +32,10 @@ Included are two ways to trigger an animation on the end of another animation. T
 ### Repeating
 
 This snippet allows you to create an infinite loop of two animations. The 'Halt' snippet will stop the repeating animation.
+
+### Slow Motion
+
+This will allow you view your prototypes in slow motion to more finely tune your animations.
 
 ## Drag
 
@@ -32,9 +46,42 @@ This snippet allows you to create an infinite loop of two animations. The 'Halt'
 
 Use these to trigger events from drag actions. Position reports back the current drag position, use it to trigger events when you drag an object into a trigger area.
 
+## Layers
+
+- Sub Layer
+- Video Layer
+- Destroy Layer
+
+## Layer Properities
+
+Use these to effect your layers.
+
+- Blur
+- Border
+- Center
+- Circle Shape
+- HTML
+- Image
+- Name
+- Saturation
+- Shadow
+- Style
+- Place Before & Behind
+- Bring To Front & Send To Back
+
 ## Scroll
 
+### Position
+
 Reports back scroll position. You can use this to trigger events that need to occur at certain positions of a scrollLayer.
+
+### Direction Lock
+
+Locks scrolling to one direction at a time
+
+### Velocity
+
+Reports back velocity of scroll.
 
 ## Simple Click and Touch
 
@@ -45,9 +92,20 @@ Reports back scroll position. You can use this to trigger events that need to oc
 
 Very simple click and touch listeners. Use Click when you want immediate feedback. Touch allows more control over the touch event, but has a small delay.
 
-## Slow Motion
 
-This will allow you view your prototypes in slow motion to more finely tune your animations.
+## Other
+
+### Delay Utility
+
+Delays anything.
+
+### Device Check
+
+Checks to see what device the project is being run on.
+
+### Project Setup Example
+
+An organized way to set up your projects.
 
 ## Spring
 
@@ -57,14 +115,6 @@ This will allow you view your prototypes in slow motion to more finely tune your
 - Variables Setup
 
 Some starter springs. The variable setup allows you to create reusable springs. Place this at the beginning of your file.
-
-## Sub Layer
-
-A quick way to add a layer to a parent layer.
-
-## Video Layer
-
-A quick way to add a video layer to your prototype.
 
 # Follow me
 Twitter: [charliedeets](https://twitter.com/charliedeets)
