@@ -2,14 +2,6 @@
 
 *I built this library to compliment the included snippets library in Framer. These snippets focus on repeated actions and include as little code as possible. It should be quite helpful to beginners who are learning the basic behaviors of Framer, but it should be also be helpful to more experienced users when used as shortcuts.*
 
-## Install
-
-- Open Framer
-- Tap snippets icon
-- Show snippets folder
-- Either clone or download snippets to folder
-
-
 ![alt tag](http://whyamicrazytoday.com/github/snippets.png)
 
 ## Animate
@@ -74,6 +66,6 @@ A quick way to add a layer to a parent layer.
 
 A quick way to add a video layer to your prototype.
 
-# Follow Me
-- Twitter: [charliedeets](https://twitter.com/charliedeets)
-- Facebook: [robotsecret](https://facebook.com/robotsecret)
+# Follow me
+Twitter: [charliedeets](https://twitter.com/charliedeets)
+Facebook: [robotsecret](https://facebook.com/robotsecret)

@@ -3,7 +3,7 @@ plugin.run = (contents, options) ->
 #{contents}
 layerA.animate
 	properties:
-		scale: 0
-		opacity: 0
+		width: 400
+		height: 400
 	curve: "spring(280,30,0)"
 	"""
