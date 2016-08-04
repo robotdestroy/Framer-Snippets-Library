@@ -6,7 +6,7 @@ layerA.onClick ->
 		properties:
 			scale: 0
 		curve: "spring(100,30,0)"
-	animationA.on 'end', ->
+	animationA.on Events.AnimationEnd, ->
 		layerB.animate
 			properties:
 				scale: 0
