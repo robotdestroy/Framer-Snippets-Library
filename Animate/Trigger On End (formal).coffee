@@ -16,6 +16,6 @@ animationB = new Animation
 layerA.onClick ->
 	animationA.start()
 
-animationA.on "end", ->
+animationA.on Events.AnimationEnd, ->
     animationB.start()
 	"""
