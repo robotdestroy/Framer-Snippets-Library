@@ -69,6 +69,25 @@ Use these to effect your layers.
 - Place Before & Behind
 - Bring To Front & Send To Back
 
+## Flow Componente
+
+Use these to create a flow.
+
+- Flow Component
+- Show Next/Previous
+- Show Next (No transition)
+- Show Overlay Center/Left/Right/Notif
+- Footer and Header
+
+## State
+
+Use these to setup states.
+
+- Define States
+- State Cycle
+- If Current State name is x then y
+- Animation Options
+
 ## Scroll
 
 ### Position
