@@ -69,7 +69,7 @@ Use these to effect your layers.
 - Place Before & Behind
 - Bring To Front & Send To Back
 
-## Flow Componente
+## Flow Component
 
 Use these to create a flow.
 
