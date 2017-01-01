@@ -1,6 +1,8 @@
 plugin.run = (contents, options) ->
 	"""
 #{contents}
+# Springs
+
 iOSAppLaunch = "spring(320,40,0)"
 iOSKeyboard = "spring(280,33,10)"
 iOSSlideView = "spring(220,28,0)"
