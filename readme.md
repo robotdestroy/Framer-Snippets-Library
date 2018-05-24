@@ -4,7 +4,10 @@
 
 To use - drag the folders into your Framer snippets folder on your local machine:
 In Framer, go to snippets > show snippets folder
-Drag all of my folders into that folder, alongside the Example.coffeescript file
+Drag all of my folders into that folder. See my YouTube channel for a few demos:
+
+- [How to use Framer Snippets Library](https://www.youtube.com/watch?v=CgY6fT7HwAw)
+- [How to use Special Snippets](https://www.youtube.com/watch?v=p_J0jd-JYZU)
 
 ![alt tag](http://www.whyamicrazytoday.com/github/snippets.png)
 
