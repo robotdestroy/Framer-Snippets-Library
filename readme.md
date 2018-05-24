@@ -3,8 +3,8 @@
 *I built this library to compliment the included snippets library in Framer. These snippets focus on repeated actions and include as little code as possible. It should be quite helpful to beginners who are learning the basic behaviors of Framer, but it should be also be helpful to more experienced users when used as shortcuts.*
 
 To use - drag the folders into your Framer snippets folder on your local machine:
-In Framer, go to snippets > show snippets folder
-Drag all of my folders into that folder. See my YouTube channel for a few demos:
+In Framer, go to snippets > show snippets folder. Drag all of my folders into that folder.
+See my YouTube channel for a few demos:
 
 - [How to use Framer Snippets Library](https://www.youtube.com/watch?v=CgY6fT7HwAw)
 - [How to use Special Snippets](https://www.youtube.com/watch?v=p_J0jd-JYZU)
